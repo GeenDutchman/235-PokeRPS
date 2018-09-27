@@ -1,0 +1,107 @@
+Pokemon:
+Typhlosion: fire
+Misdreavus: ghost
+Steelix: steel
+Hitmontop: fighting
+Natu: psychic
+Bayleaf: grass
+Ho-oh: flying
+Umbreon: dark
+Tyranitar: rock
+Crobat: poison
+Totodile: water
+Scizor: bug
+
+Moves:
+dark_pulse: dark
+fury_cutter: bug
+hydro_pump: water
+magical_leaf: grass
+night_shade: ghost
+psybeam: psychic
+triple_kick: fighting
+stone_edge: rock
+ariel_ace: flying
+poison_fang: poison
+inferno: fire
+iron_tail: steel
+
+Effectivities:
+ghost: ghost psychic 
+flying: bug fighting grass 
+fire: bug grass ice steel 
+dark: ghost psychic 
+fighting: dark rock steel 
+poison: grass 
+rock: bug fire flying 
+grass: ground rock water 
+steel: rock 
+bug: dark grass psychic 
+water: fire ground rock 
+psychic: fighting poison 
+
+Ineffectivities:
+ghost: dark 
+flying: rock steel 
+fire: fire rock water 
+dark: dark fighting 
+fighting: bug flying poison psychic 
+poison: ghost poison rock steel 
+rock: fighting steel 
+grass: bug fire flying grass poison steel 
+steel: fire steel water 
+bug: fighting fire flying ghost poison steel 
+water: grass water 
+psychic: dark psychic steel 
+
+
+Pokedex: ***************** Bonus ************ Pokedex
+Name: Typhlosion
++ Type: fire
++ Weak against : rock water 
++ Resilent to : fire grass steel bug 
+Name: Misdreavus
++ Type: ghost
++ Weak against : ghost dark 
++ Resilent to : poison bug 
+Name: Steelix
++ Type: steel
++ Weak against : fire fighting 
++ Resilent to : flying poison rock grass steel bug psychic 
+Name: Hitmontop
++ Type: fighting
++ Weak against : flying psychic 
++ Resilent to : dark rock bug 
+Name: Natu
++ Type: psychic
++ Weak against : ghost dark bug 
++ Resilent to : fighting psychic 
+Name: Bayleaf
++ Type: grass
++ Weak against : flying fire poison bug 
++ Resilent to : grass water 
+Name: Ho-oh
++ Type: flying
++ Weak against : rock 
++ Resilent to : fighting grass bug 
+Name: Umbreon
++ Type: dark
++ Weak against : fighting bug 
++ Resilent to : ghost dark psychic 
+Name: Tyranitar
++ Type: rock
++ Weak against : fighting grass steel water 
++ Resilent to : flying fire poison 
+Name: Crobat
++ Type: poison
++ Weak against : psychic 
++ Resilent to : fighting poison grass bug 
+Name: Totodile
++ Type: water
++ Weak against : grass 
++ Resilent to : fire steel water 
+Name: Scizor
++ Type: bug
++ Weak against : flying fire rock 
++ Resilent to : fighting grass 
+End Pokedex. ***********
